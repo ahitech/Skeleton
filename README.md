@@ -1,2 +1,1 @@
-# Skeleton
-A simple GUI program for Haiku. Suitable as a starting point for other programs.
+Small GUI project for Haiku, useful for creating other programs on top of it.
